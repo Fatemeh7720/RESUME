@@ -1,47 +1,47 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
-### Personal informations
-
----
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
+### fatemeh irani
 
 
-### Skill Highlights
+### اطلاعات شخصی
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ نام: فاطمه
++ نام خانوادگی : ایرانی
++ تاریخ تولد : 1377/12/29
++ آدرس : ایران تهران
 
-### Education
-
----
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
-
-### Favorites
+### زبان 
 
 ---
-+ Trade
-+ ping-pong
-+ travel 
-+ playing video games
++ زبان انگلیسی
++ مهارت خواندن : متوسط
++ مهارت نوشتن : متوسط
++ مهارت شنیداری : متوسط
++ مهارت گفتاری : متوسط
 
-### working Experience
+### تحصیلات
 
 ---
-+ I am working in Mofid Brokerage .
++ کارشناسی مهندسی کامپیوتر
++ دانشگاه پیام نور واحد تهران شمال
++ ورودی 96
++ در حال تحصیل هستم
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### علاقه مندی ها
+
+---
++ مطالع کردن کتاب  
++ دیدن فیلم 
++ موسیقی
+
+### دوره ها و گواهینامه
+
+---
++ عنوان دوره : مهارت های هفت گانه کامپیوتر
++ نام آموزشگاه : موسسه مجتمع فنی تهران غرب
++ تاریخ شروع و تاریخ پایان : تیرماه1398 -اردیبهشت 1399
+
 
 
 --- 
-### [رزومه فارسی](resume-fa.md)
+### 
