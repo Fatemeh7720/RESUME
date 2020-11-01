@@ -2,46 +2,33 @@
 ### fatemeh irani
 
 
-### اطلاعات شخصی
+### Personal informations
 
 ---
-+ نام: فاطمه
-+ نام خانوادگی : ایرانی
-+ تاریخ تولد : 1377/12/29
-+ آدرس : ایران تهران
++ name: fatemeh
++ last name : irani
++ Date of birth : 1999/march/22
++ I am a Computer engineering student
++ location : Tehran , I.R.Iran
 
-### زبان 
 
----
-+ زبان انگلیسی
-+ مهارت خواندن : متوسط
-+ مهارت نوشتن : متوسط
-+ مهارت شنیداری : متوسط
-+ مهارت گفتاری : متوسط
-
-### تحصیلات
+### Skill Highlights
 
 ---
-+ کارشناسی مهندسی کامپیوتر
-+ دانشگاه پیام نور واحد تهران شمال
-+ ورودی 96
-+ در حال تحصیل هستم
++ ICDL 1,2
 
-### علاقه مندی ها
+
+### Education
 
 ---
-+ مطالع کردن کتاب  
-+ دیدن فیلم 
-+ موسیقی
++ Bachelor of science : computer Engineering
+_ 2016,payam Noor University of tehran shomal 
 
-### دوره ها و گواهینامه
+### Favorites
 
 ---
-+ عنوان دوره : مهارت های هفت گانه کامپیوتر
-+ نام آموزشگاه : موسسه مجتمع فنی تهران غرب
-+ تاریخ شروع و تاریخ پایان : تیرماه1398 -اردیبهشت 1399
++ reading book
++ travel 
++ playing music
 
 
-
---- 
-### 
