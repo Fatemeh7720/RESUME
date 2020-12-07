@@ -15,21 +15,29 @@
 ### Skill Highlights
 
 ---
-+ ICDL 1,2
++ International Computer Driving Licence(ICDL 1/2)/
+_ Tehran Institute Of Technology\July 2019-April 2020
++ Programming of C/C++\Intermediate-Level
++ Programming of JAVA/Beginner-Level
++ Programming of CSS and HTML/Beginner-Level
++ Under the training of Python Programming Language
++ Language : Intermediate-level of English
 
 
 ### Education
 
 ---
++ Diploma of Highschool Somaye\June 2017
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of tehran shomal 
+_ 2017,payam Noor University of tehran shomal 
 
 ### Favorites
 
 ---
++ Programming
 + reading book
 + travel 
 + playing music
-
++ Learn a variety of other languages, especially Korean
 
 ### [رزومه فارسی](resume-fa.md)
